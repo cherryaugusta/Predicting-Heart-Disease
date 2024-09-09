@@ -1,13 +1,12 @@
 # Predicting Heart Disease: A Supervised Machine Learning Analysis
-## Project Description
+## Project Introduction
 Cardiovascular diseases (CVDs) are the leading cause of death globally, responsible for an estimated 17.9 million deaths annually, according to the World Health Organization (WHO).
 
 The project utilizes the [Kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) to build a predictive model for heart disease. A K-Nearest Neighbors (KNN) classifier was employed to predict the likelihood of heart disease in new patients. The dataset includes various features such as age, sex, chest pain type, and other medical attributes. Prior to model development, exploratory data analysis (EDA) was conducted to understand the dataset and identify key patterns.
 
-## Exploratory Data Analysis (EDA): Descriptive Statistics
-
 **Key Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
+## Exploratory Data Analysis (EDA): Descriptive Statistics
 ### Data Overview
 
 The dataset contains several features, providing demographic and medical information on each patient, including:
