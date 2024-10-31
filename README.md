@@ -1,4 +1,9 @@
 # Predicting Heart Disease: A Supervised Machine Learning Analysis
+
+This project is based on a guided project from Dataquest, originally titled ["Predicting Heart Disease"](https://www.dataquest.io/projects/guided-project-a-predicting-heart-disease/). I have completed the project by adding my own insights, code modifications, and analyses.
+
+> **Note:** The original project framework and dataset were provided by Dataquest. The purpose of this repository is to demonstrate my understanding and application of the concepts covered, as well as any personal contributions beyond the original scope.
+
 ## Project Introduction
 Cardiovascular diseases (CVDs) are the leading cause of death globally, responsible for an estimated 17.9 million deaths annually, according to the World Health Organization (WHO).
 
